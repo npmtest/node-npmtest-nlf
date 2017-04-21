@@ -1,24 +1,24 @@
 <svg height="334" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="334" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-21 15:28:28 +0000   334899 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-21 15:28:28 +0000     1120 bytes  LICENSE.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-21 15:28:28 +0000     5201 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-21 15:28:28 +0000      224 bytes  bin/nlf</tspan>
-<tspan x="10" y="90">  4.  2017-04-21 15:28:28 +0000     1331 bytes  bin/nlf-cli.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-21 15:28:28 +0000     1478 bytes  gulpfile.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-21 15:28:28 +0000     2578 bytes  history.md</tspan>
-<tspan x="10" y="138">  7.  2017-04-21 15:28:28 +0000       90 bytes  index.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-21 15:28:28 +0000      732 bytes  lib/compare-module-names.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-21 15:28:28 +0000     1067 bytes  lib/file-source.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-21 15:28:28 +0000     1723 bytes  lib/formatters/csv.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-21 15:28:28 +0000     3002 bytes  lib/formatters/standard.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-21 15:28:28 +0000     1278 bytes  lib/license-collection.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-21 15:28:28 +0000     2171 bytes  lib/license-find.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-21 15:28:28 +0000     2189 bytes  lib/module.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-21 15:28:28 +0000    12670 bytes  lib/nlf.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-21 15:28:28 +0000      922 bytes  lib/package-source.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-21 15:28:28 +0000     1028 bytes  package.json</tspan>
-<tspan x="10" y="314"> 18.  2017-04-21 15:28:28 +0000   296095 bytes  reports/coverage.html</tspan>
+<tspan x="10" y="26">  0.  2017-04-21 15:29:30 +0000   334899 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 15:29:30 +0000     1120 bytes  LICENSE.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 15:29:30 +0000     5201 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 15:29:30 +0000      224 bytes  bin/nlf</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 15:29:30 +0000     1331 bytes  bin/nlf-cli.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 15:29:30 +0000     1478 bytes  gulpfile.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 15:29:30 +0000     2578 bytes  history.md</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 15:29:30 +0000       90 bytes  index.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 15:29:30 +0000      732 bytes  lib/compare-module-names.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 15:29:30 +0000     1067 bytes  lib/file-source.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 15:29:30 +0000     1723 bytes  lib/formatters/csv.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 15:29:30 +0000     3002 bytes  lib/formatters/standard.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 15:29:30 +0000     1278 bytes  lib/license-collection.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-21 15:29:30 +0000     2171 bytes  lib/license-find.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-21 15:29:30 +0000     2189 bytes  lib/module.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-21 15:29:30 +0000    12670 bytes  lib/nlf.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-21 15:29:30 +0000      922 bytes  lib/package-source.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-21 15:29:30 +0000     1028 bytes  package.json</tspan>
+<tspan x="10" y="314"> 18.  2017-04-21 15:29:30 +0000   296095 bytes  reports/coverage.html</tspan>
 </text>
 </svg>
